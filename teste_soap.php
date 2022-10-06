@@ -1,7 +1,6 @@
 <?php
 print_r('<pre>');
 
-//$caminhoWsdl = 'http://www.dneonline.com/calculator.asmx?wsdl';
 $caminhoWsdl = 'https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1';
 
 $cliente = new SoapClient($caminhoWsdl);
