@@ -1,16 +1,17 @@
 # Atividade: 01 – Protocolo HTTP 
 
-Disciplina: APIs e Web Services (AWS) 
-Atividade: 01 – Protocolo HTTP 
-Valor: 10 pontos 
-Data de Entrega: 03/11/2022 
-Grupo: 1 a 4 pessoas      
- 
+Disciplina: APIs e Web Services (AWS)\
+Atividade: 01 – Protocolo HTTP\
+Valor: 10 pontos\
+Data de Entrega: 03/11/2022\
+Grupo: 1 a 4 pessoas
+
+
 Objetivo: 
 -  Entendimento prático: 
-o  Proxies  
-o  Protocolo HTTP/HTTPS 
-o  Como implementar uma chamada a um Web Service na linguagem/plataforma 
+-  Proxies  
+-  Protocolo HTTP/HTTPS 
+-  Como implementar uma chamada a um Web Service na linguagem/plataforma 
 em que o aluno estiver mais habituado. 
  
 Enunciado: 
