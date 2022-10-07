@@ -5,8 +5,6 @@ $caminhoWsdl = 'https://www.crcind.com/csp/samples/SOAP.Demo.CLS?WSDL=1';
 
 $cliente = new SoapClient($caminhoWsdl);
 
-//print_r($cliente);
-
 // define os parâmetros de entrada 
 $addIntegerData = new stdClass();
 
